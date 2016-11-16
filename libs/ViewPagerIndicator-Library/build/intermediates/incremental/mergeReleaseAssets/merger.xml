@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/ashwin/AndroidStudioProjects/Android-PhotoView-Inside-ViewPager/libs/ViewPagerIndicator-Library/src/main/assets"/><source path="/home/ashwin/AndroidStudioProjects/Android-PhotoView-Inside-ViewPager/libs/ViewPagerIndicator-Library/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/ashwin/AndroidStudioProjects/Android-PhotoView-Inside-ViewPager/libs/ViewPagerIndicator-Library/src/release/assets"/></dataSet></merger>

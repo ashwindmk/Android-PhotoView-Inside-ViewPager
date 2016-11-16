@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ashwin/AndroidStudioProjects/Android-Images-ViewPager/libs/ViewPagerIndicator-Library/build/intermediates/res/merged/androidTest/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/home/ashwin/AndroidStudioProjects/Android-Images-ViewPager/libs/ViewPagerIndicator-Library/build/intermediates/bundles/debug/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/home/ashwin/AndroidStudioProjects/Android-PhotoView-Inside-ViewPager/libs/ViewPagerIndicator-Library/build/intermediates/res/merged/androidTest/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/home/ashwin/AndroidStudioProjects/Android-PhotoView-Inside-ViewPager/libs/ViewPagerIndicator-Library/build/intermediates/bundles/debug/res/drawable/vpi__tab_indicator.xml"
+    }
+]
